@@ -14,7 +14,7 @@ namespace ProjectABI
     class MClient
     {
         /// <summary>
-        /// classe static
+        /// classe static j
         /// on utilise un int non signé
         /// </summary>
         public static UInt32 numeroClient = 1;
